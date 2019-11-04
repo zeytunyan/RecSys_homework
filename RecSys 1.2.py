@@ -8,7 +8,7 @@ def get_top_n(predictions, n):
     top_n.sort(key=lambda x: x[1], reverse=True)
     return top_n[:n]
 
-# Забирает даный из файла u.item и возвращает их в виде списка
+# Забирает данные из файла u.item и возвращает их в виде списка
 def get_movies_dict_from_file():
     movies_dict = {}
     pth = get_dataset_dir() + 'ml-100k/ml-100k/u.item'
