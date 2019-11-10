@@ -1,0 +1,6 @@
+User 37
+                                film.value  filmLabel.value            date.value                            actress.value  actressLabel.value     minPublDate.value
+0   http://www.wikidata.org/entity/Q622380  Pather Panchali  1955-08-26T00:00:00Z  http://www.wikidata.org/entity/Q5116419      Chunibala Devi  1955-08-26T00:00:00Z
+1  http://www.wikidata.org/entity/Q3314697  Mina Tannenbaum  1994-01-01T00:00:00Z  http://www.wikidata.org/entity/Q1429389  Florence Thomassin  1994-01-01T00:00:00Z
+2   http://www.wikidata.org/entity/Q622380  Pather Panchali  1955-08-26T00:00:00Z  http://www.wikidata.org/entity/Q6373661     Karuna Banerjee  1955-08-26T00:00:00Z
+3   http://www.wikidata.org/entity/Q622380  Pather Panchali  1955-08-26T00:00:00Z  http://www.wikidata.org/entity/Q7881011        Uma Dasgupta  1955-08-26T00:00:00Z
