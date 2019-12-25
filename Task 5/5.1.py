@@ -31,7 +31,7 @@ def mutSet(individual):
 with open('3.txt') as data:
     first_str = data.readline().split()
     MAX_WEIGHT = int(first_str[0])
-    MAX_VOLUME = float(first_str[0])
+    MAX_VOLUME = float(first_str[1])
     lines = data.readlines()
 
 NBR_ITEMS = len(lines)
